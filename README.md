@@ -7,7 +7,7 @@ GİRİŞ EKRANI
 KULLANICI ADI : 'admin'
 PAROLA : 'onuryazkili'
 
-Giriş yapıldıktan sonra anasayfayı görmek için sayfayı yenilemek gerekiyor.
+Giriş Yap butonuna iki kere basmak gerekebiliyor
 
 Program bir diş hekiminin randevularını yönetmeye yardımcı otomasyon sistemidir.
 
