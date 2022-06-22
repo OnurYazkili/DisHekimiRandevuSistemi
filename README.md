@@ -2,8 +2,8 @@
 
 GİRİŞ EKRANI
 
-KULLANICI ADI : admin
-PAROLA : onuryazkili
+KULLANICI ADI : 'admin'
+PAROLA : 'onuryazkili'
 
 Giriş yapıldıktan sonra anasayfayı görmek için sayfayı yenilemek gerekiyor.
 
