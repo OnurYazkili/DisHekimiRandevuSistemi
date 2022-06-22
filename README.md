@@ -1,5 +1,7 @@
 # DisHekimiRandevuSistemi
 
+!! Siteyi VPN olmadan açmayabiliyor !!
+
 GİRİŞ EKRANI
 
 KULLANICI ADI : 'admin'
